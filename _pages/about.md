@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year master's student at the  [School of Artificial Intelligence](https://soai.sjtu.edu.cn/) , [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) , under the supervision of Prof.[Ying Wen](https://yingwen.io/). 
+I am currently a first-year master's student at the  [School of Artificial Intelligence(SAI)](https://soai.sjtu.edu.cn/) , [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) , under the supervision of Prof.[Ying Wen](https://yingwen.io/). 
 
 A data-driven personal website
 ======
